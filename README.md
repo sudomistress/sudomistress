@@ -22,4 +22,9 @@ _Pronouns: She/Her_
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Making life easier with bash aliases](https://www.sudoversity.fyi/posts/create-bash-aliases/)
+- [Linux Game Modding with Lamp](https://www.sudoversity.fyi/posts/linux-game-modding-with-lamp/)
+- [Linux, Razer, and Hardware](https://www.sudoversity.fyi/posts/linux-razer-hardware/)
+- [Migrating from npm to pnpm](https://www.sudoversity.fyi/posts/migrating-from-npm-to-pnpm/)
+- [Pop!_OS and the lost hard drive](https://www.sudoversity.fyi/posts/popos-lost-harddrive/)
 <!-- BLOG-POST-LIST:END -->
