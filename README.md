@@ -18,3 +18,8 @@ _Pronouns: She/Her_
 - play video games
 - read daily. As of Nov 17, 2023, I have read **277** books
 - am known to make up words to ensure my point is made
+
+#### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
