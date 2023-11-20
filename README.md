@@ -22,9 +22,9 @@ _Pronouns: She/Her_
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rainbow Filter Mod in Grim Dawn Linux](https://www.sudoversity.fyi/posts/rainbow-filter-mod-grim-dawn-linux/)
 - [Lampray - New Name, New Features](https://www.sudoversity.fyi/posts/lampray-new-new-new-features/)
 - [Making life easier with bash aliases](https://www.sudoversity.fyi/posts/create-bash-aliases/)
 - [Linux Game Modding with Lampray](https://www.sudoversity.fyi/posts/linux-game-modding-with-lamp/)
 - [Linux, Razer, and Hardware](https://www.sudoversity.fyi/posts/linux-razer-hardware/)
-- [Migrating from npm to pnpm](https://www.sudoversity.fyi/posts/migrating-from-npm-to-pnpm/)
 <!-- BLOG-POST-LIST:END -->
