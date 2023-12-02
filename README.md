@@ -22,9 +22,9 @@ _Pronouns: She/Her_
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AoC23 - Lessons Learned on Day 1](https://www.sudoversity.fyi/posts/aoc23-lessonslearned-dayone/)
 - [Choice Paralysis - Advent of Code 2023](https://www.sudoversity.fyi/posts/choice-paralysis-advent-code-2023/)
 - [Rainbow Filter Mod in Grim Dawn Linux](https://www.sudoversity.fyi/posts/rainbow-filter-mod-grim-dawn-linux/)
 - [Lampray - New Name, New Features](https://www.sudoversity.fyi/posts/lampray-new-new-new-features/)
 - [Making life easier with bash aliases](https://www.sudoversity.fyi/posts/create-bash-aliases/)
-- [Linux Game Modding with Lampray](https://www.sudoversity.fyi/posts/linux-game-modding-with-lamp/)
 <!-- BLOG-POST-LIST:END -->
