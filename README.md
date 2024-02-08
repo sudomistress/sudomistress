@@ -22,9 +22,9 @@ _Pronouns: She/Her_
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lutris, Exit Error 256, Blizzard Battle.net](https://www.sudoversity.fyi/posts/lutris-error-256-battlenet/)
 - [Fonts: Privacy-friendly Google Fonts or self-host](https://www.sudoversity.fyi/posts/fonts-privacy-google-fonts/)
 - [Elgato Stream Deck setup on Linux](https://www.sudoversity.fyi/posts/elgato-stream-deck-linux/)
 - [From Windows Fidelity to Linux Liberty: My Computing Evolution](https://www.sudoversity.fyi/posts/windows-fidelity-linux-liberty/)
 - [Getting Macros and binds working in CoH/CoV on Linux](https://www.sudoversity.fyi/posts/cmacros-binds-working-coh-cov-linux/)
-- [City of Heroes/Villains legally back &lpar;and playing on Linux&rpar;!](https://www.sudoversity.fyi/posts/cov-back-and-on-linux-thanks-ncsoft-thanks-homecoming/)
 <!-- BLOG-POST-LIST:END -->
