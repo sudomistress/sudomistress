@@ -22,9 +22,9 @@ _Pronouns: She/Her_
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No Man&#39;s Sky Storage Management](https://www.sudoversity.fyi/posts/nms-storage-management/)
 - [Taking aliases to the next level with ssh config](https://www.sudoversity.fyi/posts/taking-aliases-to-the-next-level-with-ssh-config/)
 - [Making life easier with bash aliases](https://www.sudoversity.fyi/posts/create-bash-aliases/)
 - [Install MidsReborn for City of Heroes on Linux](https://www.sudoversity.fyi/posts/midsreborn-city-heroes-linux/)
 - [Desktop Shortcuts for Pop!_OS](https://www.sudoversity.fyi/posts/desktop-shortcuts-popos/)
-- [Lutris, Exit Error 256, Blizzard Battle.net](https://www.sudoversity.fyi/posts/lutris-error-256-battlenet/)
 <!-- BLOG-POST-LIST:END -->
