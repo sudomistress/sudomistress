@@ -22,9 +22,9 @@ _Pronouns: She/Her_
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript Basics](https://www.sudoversity.fyi/posts/typescript-basics/)
+- [Set up self-hosted Gitea: Part 1](https://www.sudoversity.fyi/posts/self-hosted-gitea-part-1/)
 - [No Man&#39;s Sky Storage Management](https://www.sudoversity.fyi/posts/nms-storage-management/)
 - [Taking aliases to the next level with ssh config](https://www.sudoversity.fyi/posts/taking-aliases-to-the-next-level-with-ssh-config/)
 - [Making life easier with bash aliases](https://www.sudoversity.fyi/posts/create-bash-aliases/)
-- [Install MidsReborn for City of Heroes on Linux](https://www.sudoversity.fyi/posts/midsreborn-city-heroes-linux/)
-- [Desktop Shortcuts for Pop!_OS](https://www.sudoversity.fyi/posts/desktop-shortcuts-popos/)
 <!-- BLOG-POST-LIST:END -->
