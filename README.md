@@ -7,7 +7,7 @@ _Pronouns: She/Her_
 - [SudoVersity](https://www.sudoversity.fyi)
 - NeekoLogs
 
-#### 🏆 Challenges I am going to be participating in ...
+#### 🏆 Challenges I participated in ...
 
 - [Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023)
 - [Advent of Code](https://adventofcode.com)
