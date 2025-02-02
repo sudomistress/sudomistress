@@ -22,9 +22,9 @@ _Pronouns: She/Her_
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The current state of WordPress concerns me](https://www.sudoversity.fyi/posts/current-state-wordpress-concerns-me/)
-- [Goodbye 2024, Hello 2025](https://www.sudoversity.fyi/posts/goodbye-hello/)
-- [Astro, Turso, and Astro DB](https://www.sudoversity.fyi/posts/astro-turso-astro-db/)
-- [Minecraft, Forge, and Modpacks on Linux](https://www.sudoversity.fyi/posts/minecraft-forge-modpacks-linux/)
-- [Never thought I&#39;d see the day](https://www.sudoversity.fyi/posts/never-thought-see-day/)
+- [AI Bots Irritate Me](https://www.sudoversity.fyi/posts/undefined/)
+- [Reading and writing](https://www.sudoversity.fyi/posts/undefined/)
+- [The current state of WordPress concerns me](https://www.sudoversity.fyi/posts/undefined/)
+- [Goodbye 2024, Hello 2025](https://www.sudoversity.fyi/posts/undefined/)
+- [Astro, Turso, and Astro DB](https://www.sudoversity.fyi/posts/undefined/)
 <!-- BLOG-POST-LIST:END -->
