@@ -17,9 +17,9 @@ _Pronouns: She/Her_
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Please Stop Calling It AI](https://www.sudoversity.fyi/posts/please-stop-calling-it-ai/)
 - [Preparing for Path of Exile: Secrets of the Atlas](https://www.sudoversity.fyi/posts/preparing-poe-secrets-atlas/)
 - [Astro 5+, Pagefind, and Vercel](https://www.sudoversity.fyi/posts/astro-pagefind-vercel/)
 - [AI Bots Irritate Me](https://www.sudoversity.fyi/posts/ai-bots-irritate-me/)
 - [Reading and writing](https://www.sudoversity.fyi/posts/reading-writing/)
-- [The current state of WordPress concerns me](https://www.sudoversity.fyi/posts/current-state-wordpress-concerns-me/)
 <!-- BLOG-POST-LIST:END -->
